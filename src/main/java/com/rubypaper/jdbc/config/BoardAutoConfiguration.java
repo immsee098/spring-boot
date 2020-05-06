@@ -25,3 +25,5 @@ public class BoardAutoConfiguration {
         return manager;
     }
 }
+
+//new changes added
